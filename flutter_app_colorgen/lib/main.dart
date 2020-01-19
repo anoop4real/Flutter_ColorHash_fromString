@@ -50,11 +50,11 @@ class _MyHomePageState extends State<MyHomePage> {
     "Anna Hary",
     "Donny",
     "Hanzo",
-    "ROCKY",
+    "ROCKY SUPERB",
     "ÄKJGJ",
     "Superman",
     "David Masters",
-    "David Mastery",
+    "Ken Masters",
     "A ver long name with special öäå'gjkg ",
   "A very very very super löng name with super history"
   ];
